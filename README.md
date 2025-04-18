@@ -22,7 +22,7 @@ A React-based web application for manipulating and analyzing text.
 
 1. Clone the repository
    ```
-   git clone https://github.com/your-username/text-manipulator.git
+   git clone https://github.com/KalyaniWaghchaure/Text-Manipulator.git
    ```
 2. Navigate to the project directory
    ```
